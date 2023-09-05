@@ -5,6 +5,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import javax.sql.DataSource;
 
+//Can be used instead of application.properties # POSTGRESQL DATABASE
 @Configuration
 public class DataSourceConfig {
 
